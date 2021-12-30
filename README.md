@@ -33,3 +33,11 @@ This program follows a **project-based** learning approach which leaves me with 
 [Click here to read more.](https://github.com/BakaAkuma/proto-type "Proto-Type")
 ## LIME
 ![LIME screenshot]()
+
+**LIME** is the name of my CPU based ray tracing library. This was the third project for my study, the focus here was on creating a ray tracer which would help us learn about some fundamental concepts in graphics programming. Another focus of this project was doing research into the different techniques we need to use to make a ray tracer work reliably and fast. We were also not allowed to make use of flat surfaces for this project. Some of the concepts I learned about here were:
+* Linear algebra
+* Ray primitive intersection
+* Light behaviour
+* Ray tracer acceleration structures
+
+[Click here to read more.](https://github.com/BakaAkuma/LIME "LIME")
