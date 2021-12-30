@@ -1,10 +1,10 @@
 # Welcome to my portfolio
 
 ## Table of content
-* [About me](##Aboutme "About me")
-* [Hill Raider](##HillRaider "Hill Raider")
-* [Proto-Type](##Proto-Type "Proto-Type")
-* [LIME](##LIME "LIME")
+* [About me](##aboutme "About me")
+* [Hill Raider](##hillraider "Hill Raider")
+* [Proto-Type](##proto-type "Proto-Type")
+* [LIME](##LIME "lime")
 
 ## About me
 My name is **Ruan Scheres**, I am currently a first-year student at the *Breda University of Applied Sciences*. I am enrolled in the *Creative Media and Game Technologies* where I follow the games programming discipline.
