@@ -23,5 +23,13 @@ This program follows a **project-based** learning approach which leaves me with 
 ## Proto-Type
 ![Proto-Type screenshot]()
 
+**Proto-Type** is the second project I had to make for my first year. For this project I had to re-create some mechanics from the arcade shoot them up game *R-Type* within 6 weeks. Some of the concepts featured in this project are the following:
+* Tile maps
+* Screen space scrolling
+* Basic maths for 2D games
+* Efficient Collison detection
+* Gameplay programming
+
+[Click here to read more.](https://github.com/BakaAkuma/proto-type "Proto-Type")
 ## LIME
 ![LIME screenshot]()
