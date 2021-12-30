@@ -14,7 +14,7 @@ This program follows a **project-based** learning approach which leaves me with 
 
 ## Year 1
 ### Hill Raider
-![Hill Raider screenshot]()
+![Hill Raider screenshot](https://github.com/BakaAkuma/PortfolioRuanScheres/blob/main/assets/HillRaider.PNG)
 
 **Hill Raider** is my intake project for the study which I am currently following. The goal of the game is to collect as much food as you can before while trying to stay alive inside of an enemy ant colony. While the game itself was quite simple, it was the second game project I ever worked on and it taught me a lot about game concepts I was not very familiar with. These concepts include:
 * Designing a game from scratch
@@ -23,7 +23,7 @@ This program follows a **project-based** learning approach which leaves me with 
 
 [Click here to read more.](https://github.com/BakaAkuma/hill_raider "Hill Raider")
 ### Proto-Type
-![Proto-Type screenshot]()
+![Proto-Type screenshot](https://github.com/BakaAkuma/PortfolioRuanScheres/blob/main/assets/Proto-Type.PNG)
 
 **Proto-Type** is the second project I had to make for my first year. For this project I had to re-create some mechanics from the arcade shoot them up game *R-Type* within 6 weeks. Some of the concepts featured in this project are the following:
 * Tile maps
@@ -34,7 +34,7 @@ This program follows a **project-based** learning approach which leaves me with 
 
 [Click here to read more.](https://github.com/BakaAkuma/proto-type "Proto-Type")
 ### LIME
-![LIME screenshot]()
+![LIME screenshot](https://github.com/BakaAkuma/PortfolioRuanScheres/blob/main/assets/LIME.PNG)
 
 **LIME** is the name of my CPU based ray tracing library. This was the third project for my study, the focus here was on creating a ray tracer which would help us learn about some fundamental concepts in graphics programming. Another focus of this project was doing research into the different techniques we need to use to make a ray tracer work reliably and fast. We were also not allowed to make use of flat surfaces for this project. Some of the concepts I learned about here were:
 * Linear algebra
